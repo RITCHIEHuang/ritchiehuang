@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##########
+I'm currently working as a Maching Learning Engineer intern mainly on reinforcement learning area.
+
+##########
+I love reading, writing, watching tv series, especially sleeping 😄.
+
