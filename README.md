@@ -20,3 +20,7 @@ I'm currently working as a Maching Learning Engineer intern mainly on reinforcem
 
 I love reading, writing, watching tv series, especially sleeping 😄.
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritchiehuang&layout=compact&hide=html" alt="ritchiehuang" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ritchiehuang&show_icons=true" alt="ritchiehuang" /></p>
+
